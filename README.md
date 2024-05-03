@@ -3,7 +3,7 @@ My first repository
 #AVATAR
 **avatar**
 *avatar*
->blockqoute
+>avatar
 1. water
 2. earth
 3. fire
@@ -21,21 +21,21 @@ My first repository
 ```
 {
   "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "lastName": "Loyd",
+  "age": 23
 }
 ```
-Here's a sentence with a footnote. [^1]
+toph beifong goat. [^1]
 
-[^1]: This is the footnote.
-### My Great Heading {#custom-id}
+[^1]: toph beifong is the goat.
+### avatar {#custom-id}
 term
 : definition
-~~The world is flat.~~
+~~i love toph~~
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
-That is so funny! :joy:
-I need to highlight these ==very important words==.
+toph rocks :joy:
+I need to highlight these ==Toph==.
 	H~2~O
 	X^2^
